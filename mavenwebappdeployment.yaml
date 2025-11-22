@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: mavenwebappcontainer
-          image: skulkarni24/myimage_6:latest
+          image: skulkarni24/myimages_6:latest
           ports:
             - containerPort: 8080
           resources:
